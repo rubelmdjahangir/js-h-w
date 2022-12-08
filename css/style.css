@@ -1,0 +1,24 @@
+body{
+    background-color: blanchedalmond;
+}
+.email input{
+    width: 25%;
+    height: 30px;
+    font-size: 15px;
+    border-radius: 5px;
+    border: 1px blue solid;
+}
+.password input{
+    width: 25%;
+    height: 30px;
+    font-size: 15px;
+    border-radius: 5px;
+    border: 1px blue solid;
+}
+.btn button{
+    width: 100px ;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 10px;
+    border: 1px blue solid;
+}
